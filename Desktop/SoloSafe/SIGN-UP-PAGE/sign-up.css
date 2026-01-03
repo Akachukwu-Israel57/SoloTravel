@@ -1,0 +1,13 @@
+.right-form, .left-form{
+    border: none;
+}
+.formsDiv{
+    border: none;
+    display: flex;
+}
+.btnAndPar{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
